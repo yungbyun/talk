@@ -3,7 +3,7 @@
 * 02주차(0909) : [박서연 교수](https://www.ilyojournal.com/news/articleView.html?idxno=21786) (연세대 대학원) "[미래 모빌리티와 AI](https://github.com/yungbyun/special_talk/blob/main/20240909_%EC%A0%9C%EC%A3%BC%EB%8C%80%20%20%EB%AF%B8%EB%9E%98%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0-1.pdf)"
 * 03주차(0916) : (공휴일) 
 * 04주차(0923) : 황민호 (카카오) "[생성형 AI 시대 개발자 성장 이야기](https://github.com/yungbyun/talk/blob/main/%EC%83%9D%EC%84%B1%ED%98%95%20AI%20%EC%8B%9C%EB%8C%80%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%84%B1%EC%9E%A5%20%EC%9D%B4%EC%95%BC%EA%B8%B0.pdf)"
-* 05주차(0930) : 문희창 교수 (홍익대학교) 자율주행 모빌리티 기술변화와 스마트시티에서의 서비스 변화
+* 05주차(0930) : 문희창 교수 (홍익대학교) [자율주행 모빌리티 기술변화와 스마트시티에서의 서비스 변화](https://github.com/yungbyun/talk/blob/main/%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0%20%EA%B8%B0%EC%88%A0%EB%B3%80%ED%99%94%EC%99%80%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%8B%9C%ED%8B%B0%EC%97%90%EC%84%9C%EC%9D%98%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EB%B3%80%ED%99%94(%ED%99%8D%EC%9D%B5%EB%8C%80%20%EB%AC%B8%ED%9D%AC%EC%B0%BD%20%EA%B5%90%EC%88%98).pdf)
 * 06주차(1007) : 이준호 대표 (인그래디언트) 
 * 07주차
 * 08주차
